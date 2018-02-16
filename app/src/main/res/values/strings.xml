@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Single screen app</string>
+    <string name="title">MeteoKaisari</string>
+    <string name="subtitle">Personal Weather Station</string>
+    <string name="url">www.meteokaisari-zireia.gr</string>
+    <string name="phone">6930476868</string>
+
+</resources>

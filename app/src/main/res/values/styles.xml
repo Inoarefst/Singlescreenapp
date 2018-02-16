@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#D50000</item>
+    </style>
+
+    <style name="TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">52dp</item>
+        <item name="android:paddingTop">6dp</item>
+        <item name="android:paddingBottom">4dp</item>
+        <item name="android:textSize">36sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#D50000</item>
+    </style>
+
+    <style name="TextView2">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">52dp</item>
+        <item name="android:paddingTop">6dp</item>
+        <item name="android:paddingBottom">4dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#D50000</item>
+    </style>
+
+
+    <style name="TextView3">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">52dp</item>
+        <item name="android:paddingTop">6dp</item>
+        <item name="android:paddingBottom">4dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#D50000</item>
+    </style>
+
+</resources>
+

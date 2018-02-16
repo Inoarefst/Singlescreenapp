@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/snowy"
+    tools:context="com.example.android.singlescreenapp.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="48dp">
+
+
+        <TextView
+            style="@style/TextView"
+            android:text="@string/title" />
+
+        <TextView
+            style="@style/TextView2"
+            android:text="@string/subtitle" />
+
+        <TextView
+            style="@style/TextView3"
+            android:text="@string/url"
+            android:autoLink="web" />
+
+        <TextView
+            style="@style/TextView3"
+            android:text="@string/phone"
+            android:autoLink="phone" />
+
+
+    </LinearLayout>
+
+</ScrollView>
+
